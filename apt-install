@@ -1,0 +1,6 @@
+sudo apt-get install terminator
+sudo apt-get install awesome
+sudo apt-get install vim-gtk
+sudo apt-get install screen
+wget http://github.com/sjl/oh-my-zsh/raw/master/tools/install.sh -O - | sh
+
